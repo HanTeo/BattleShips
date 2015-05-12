@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleShips", "BattleShips\BattleShips.csproj", "{E53768E0-7652-40EF-8525-B0BD4A47E1F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleShipsTests", "BattleShipsTests\BattleShipsTests.csproj", "{9295B951-E94F-40B7-9D43-A1DB8D61F86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleShipsLib", "BattleShipsLib\BattleShipsLib.csproj", "{1842CCC0-95B4-471B-9B13-8E1442D870E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E53768E0-7652-40EF-8525-B0BD4A47E1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53768E0-7652-40EF-8525-B0BD4A47E1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53768E0-7652-40EF-8525-B0BD4A47E1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53768E0-7652-40EF-8525-B0BD4A47E1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9295B951-E94F-40B7-9D43-A1DB8D61F86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9295B951-E94F-40B7-9D43-A1DB8D61F86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9295B951-E94F-40B7-9D43-A1DB8D61F86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9295B951-E94F-40B7-9D43-A1DB8D61F86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1842CCC0-95B4-471B-9B13-8E1442D870E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1842CCC0-95B4-471B-9B13-8E1442D870E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1842CCC0-95B4-471B-9B13-8E1442D870E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1842CCC0-95B4-471B-9B13-8E1442D870E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
